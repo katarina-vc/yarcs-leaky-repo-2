@@ -1,13 +1,16 @@
-# YARC's Leaky Repo 
+# YARC's Leaky Repo - Example #2
 (Credit to Dylan Katz (Plazmaz's) open-source secret detection benchmark tool)
 
 See original open-source tool here: leaky-repo: https://github.com/Plazmaz/leaky-repo/tree/master
+
 
 # FAQ
 ## What is this?
 "yarcs-leaky-repo" in particular is being used for a demonstration of YARC's repo-sanitizing abilities.
 
-By the time you get here this repo may already be clean. 
+By the time you get here this repo may already be clean since I am using this to demonstrate and test YARC's sanitizing capabilties. 
+Please see additional yarc-leaky-repo's in my GitHub for a dirty example to pull from and test YARC yourself. Otherwise you 
+could also just create a clone of Plazmaz's leaky-repo straight from the source (don't forget to push a clean commit head before using YARC).
 
 ------------------------------------------------------------
 ## All below documentation is from the open-source secret detection tool by Plazmaz (Dylan Katz)
